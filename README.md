@@ -36,9 +36,6 @@ A modern, feature-rich to-do list application built with Vue.js 3, Pinia for sta
 ### Main Interface
 ![Main Interface](./screenshots/home-page.png)
 
-### Task Management
-![Task Management](./screenshots/tasks-view.png)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
