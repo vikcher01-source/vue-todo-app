@@ -129,15 +129,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Contact
-
-**Your Name**
-
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Upwork: [Your Upwork Profile](https://upwork.com/freelancers/yourprofile)
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
 ---
 
 ⭐ If you like this project, please give it a star on GitHub!
